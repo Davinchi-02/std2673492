@@ -1,0 +1,31 @@
+.container-fluid{
+    background-color: white;
+}
+.titulo5{
+    color: grey;
+    display:flex;
+    height: 200px;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.C5{
+    display: flex;
+   flex-direction: row;
+    justify-content: space-around;
+    width: auto;
+    align-items: center;
+}
+
+.C5 > DIV {
+    box-shadow: 1px 1px 10px rgba(0,0,0, 0.5);
+    padding: 10px;
+}
+
+.active {
+    border: gray solid 5px;
+}
+.C5 button{
+    background-color: rgb(12, 219, 150);
+    color: white;
+}

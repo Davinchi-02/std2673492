@@ -1,0 +1,167 @@
+#logo{
+    width: 50px;
+    height: 50px;
+}
+
+
+.centrado{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.centrado p{ 
+  text-align: center;
+  color: white;
+}
+
+#boton1{
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+
+#boton2{
+  border: 0;
+  background: transparent;
+  position: absolute;
+  top: 78%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.pie{
+  text-align: center;
+  color: black;
+
+}
+.titulo2 h1,p{
+    color: gray;
+    justify-content: center;
+    display: flex;
+}
+.c2{
+display: flex;
+flex-direction: row;
+width: auto;
+justify-content: space-around;
+}
+.c2 img{
+    display: flex;
+    justify-content: center;
+}
+.final{
+    background-color: azure;
+    margin: 0px;
+    height: 200px;
+}
+.final2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color:azure;
+    height: 400px;
+    line-height: 200px;
+    margin: 0%;
+}
+.titulo3 h1,p{
+    display: flex;
+    justify-content: center;
+    color: gray;
+    height: 30px;
+}
+.c3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   width: auto;
+   height: auto;
+}
+.c32{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   width: auto;
+   height: auto;
+}
+.titulo4{
+    color: grey;
+    display:flex;
+    justify-content: center;
+    height: 200px;
+    flex-direction: column;
+    align-items: center;
+    background-color: azure;
+}
+.fotos4{
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    justify-content: space-around;
+    background-color: azure ;
+
+}
+.titulo5{
+    color: grey;
+    display:flex;
+    height: 200px;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.C5{
+    display: flex;
+   flex-direction: row;
+    justify-content: space-around;
+    width: auto;
+    align-items: center;
+}
+
+.C5 > DIV {
+    box-shadow: 1px 1px 10px rgba(0,0,0, 0.5);
+    padding: 10px;
+}
+
+.active {
+    border: gray solid 5px;
+}
+.C5 button{
+    background-color: rgb(12, 219, 150);
+    color: white;
+}
+.titulo6{
+    color: grey;
+    display:flex;
+    height: 200px;
+    flex-direction: column;
+    align-items: center;
+}
+.tabla6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.tabla6 button{
+background-color: rgb(8, 105, 216);
+color: white;
+
+}
+.bx bx-user{
+    margin: 0;
+    padding: 0;
+    
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: azure;
+    height: auto;
+    width: auto;
+    font-size: 1rem;
+}
