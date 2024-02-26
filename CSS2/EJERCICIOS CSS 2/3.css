@@ -1,0 +1,30 @@
+.flex-container{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    border: solid black;
+
+}
+.flex-container > div{
+    width: 150px;
+    margin: 10px;
+    text-align: center;
+    line-height: 300px;
+    font-size: 30px;
+    }
+#flex1{
+    background-color: orangered ;
+   
+    }
+    #flex2{
+        background-color: maroon ;
+       
+        }
+        #flex3{
+            background-color: purple ;
+          
+            }
+            #flex4{
+                background-color: green ;
+              
+                }

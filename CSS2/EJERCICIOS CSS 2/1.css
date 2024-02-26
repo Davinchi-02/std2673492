@@ -1,0 +1,56 @@
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background-color: grey;
+    border: solid aqua;
+
+}
+.flex-container > div{
+background-color: orangered ;
+width: 100px;
+margin: 10px;
+text-align: center;
+line-height: 75px;
+font-size: 30px;
+}
+#flex1{
+    background-color: orangered ;
+    width: 170px;
+    margin: 10px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 30px;
+    }
+    #flex2{
+        background-color: orangered ;
+        width: 300px;
+        margin: 10px;
+        text-align: center;
+        line-height: 75px;
+        font-size: 30px;
+        }
+        #flex3{
+            background-color: orangered ;
+            width: 400px;
+            margin: 10px;
+            text-align: center;
+            line-height: 85px;
+            font-size: 30px;
+            }
+            #flex4{
+                background-color: orangered ;
+                width: 150px;
+                margin: 10px;
+                text-align: center;
+                line-height: 45px;
+                font-size: 30px;
+                }
+                #flex5{
+                    background-color: orangered ;
+                    width: 250px;
+                    margin: 10px;
+                    text-align: center;
+                    line-height: 75px;
+                    font-size: 30px;
+                    }
