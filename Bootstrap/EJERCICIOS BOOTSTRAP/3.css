@@ -1,0 +1,23 @@
+.container-fluid{
+    background-color: white;
+}
+.titulo3 h1,p{
+    display: flex;
+    justify-content: center;
+    color: gray;
+    height: 30px;
+}
+.c3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   width: auto;
+   height: auto;
+}
+.c32{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   width: auto;
+   height: auto;
+}
