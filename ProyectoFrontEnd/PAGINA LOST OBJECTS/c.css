@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    width: 500px;
+   
+}
+.usuario{
+    height:75px;
+    background-color: rgb(66, 4, 66);
+    padding: 15px;
+    display: grid;
+    color: white;
+}
+.usuario a{
+    color: white;
+}
+
+.imagen{
+    
+
+}
+.compartir{
+    background-color: rgb(66, 4, 66);
+    display: flex;
+    justify-content: space-around;
+}
+.compartir a{
+    color: white;
+}
+.compartir> div{
+    width: 150px;
+    margin: 10px;
+    
+}
